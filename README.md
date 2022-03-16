@@ -1,0 +1,2 @@
+# juniarti_D0219008_operatoraritmatic
+operator aritmatic
